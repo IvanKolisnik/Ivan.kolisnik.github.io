@@ -1,3 +1,3 @@
 # Колісник Іван
 Мої створені сайти <br>
-[About me](https://ivan.kolisnik.github.io/MySite/ "Натискай не бійся")
+[About me](https://ivankolisnyk.github.io/MySite/ "Натискай не бійся")
